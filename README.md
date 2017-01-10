@@ -16,7 +16,7 @@ $ git push heroku master
 $ heroku open
 ```
 
-or you can reference:
+or you can refer:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -28,6 +28,14 @@ or you can reference:
 - Complete the functionality of subscribing mailing lists.
 - Complete the functionality of rendring weekly packages lists.
 - complete the unit testing for this Web application...
+
+## The data sources
+
+- RSS: [Planet PHP](http://www.planet-php.net/)
+- RSS: [PHPDeveloper.org](http://www.phpdeveloper.org/)
+- RSS: [reddit.com/php](http://www.reddit.com/r/php/)
+- RSS: [PHPBuilder](http://www.phpbuilder.com/)
+- Weekly news: [PHHPWeekly](http://phpweekly.com/)
 
 ## Techniques
 
