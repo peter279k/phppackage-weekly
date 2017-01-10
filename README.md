@@ -22,9 +22,9 @@ or you can reference:
 
 ## To do
 
-- Complete the sample homepage
-- Complete the subscribe form page
-- Complete the weekly lists page
-- Complete the functionality of subscribing mailing lists
-- Complete the functionality of rendring weekly packages lists
-
+- Complete the sample homepage.
+- Complete the subscribe form page.
+- Complete the weekly lists page.
+- Complete the functionality of subscribing mailing lists.
+- Complete the functionality of rendring weekly packages lists.
+- complete the unit testing...
