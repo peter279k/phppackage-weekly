@@ -1,28 +1,30 @@
-# php-getting-started
+# phppackages-weekly
 
 A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
-
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
 
 ## Deploying
 
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
-```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
+```bash
+$ git clone https://github.com/peter279k/phppackages-weekly.git
+# or clone your own fork
+
+$ cd phppackages-weekly
 $ heroku create
 $ git push heroku master
 $ heroku open
 ```
 
-or
+or you can reference:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Documentation
+## To do
 
-For more information about using PHP on Heroku, see these Dev Center articles:
+- Complete the sample homepage
+- Complete the subscribe form page
+- Complete the weekly lists page
+- Complete the functionality of subscribing mailing lists
+- Complete the functionality of rendring weekly packages lists
 
-- [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
