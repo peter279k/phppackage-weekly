@@ -27,4 +27,10 @@ or you can reference:
 - Complete the weekly lists page.
 - Complete the functionality of subscribing mailing lists.
 - Complete the functionality of rendring weekly packages lists.
-- complete the unit testing...
+- complete the unit testing for this Web application...
+
+## Techniques
+
+- frontend:semantic-ui and jQuery 3.0+
+- backend :PHP(Silex framework) and Twig(PHP template engine)
+
